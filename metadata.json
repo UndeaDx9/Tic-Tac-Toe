@@ -1,0 +1,5 @@
+{
+  "name": "X vs O: Modern Tic-Tac-Toe",
+  "description": "A clean, modern Tic-Tac-Toe prototype with smooth animations and win detection.",
+  "requestFramePermissions": []
+}
